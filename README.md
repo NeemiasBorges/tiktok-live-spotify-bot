@@ -111,4 +111,4 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 📫 Contato
 
-Neemias - [@dev_nemor]([https://twitter.com/seutwitter](https://x.com/dev_nemo))
+Neemias - [@dev_nemo]([https://twitter.com/seutwitter](https://x.com/dev_nemo))
