@@ -1,0 +1,12 @@
+{
+    "spotify": {
+        "client_id": "",
+        "client_secret": "",
+        "redirect_uri": "",
+        "playlist_id": "",
+        "scope": "playlist-modify-public playlist-modify-private"
+    },
+    "selenium": {
+        "live_link": ""
+    }
+}
